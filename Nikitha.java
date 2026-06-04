@@ -25,5 +25,6 @@ public class Nikitha {
         int key = 10;
         Bsearch obj = new Bsearch();
         obj.bsearch(nums, key);
+        System.out.println("Hi iam Sairam");
     }
 }
