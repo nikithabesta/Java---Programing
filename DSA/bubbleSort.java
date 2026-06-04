@@ -14,14 +14,14 @@ class Bsort{
                 System.out.println("Iterations = "+i);
                 for(int n : nums){
                     
-                    System.out.println(n);
+                    System.out.print(n + " ");
                     
                 }
         }
         System.out.println();
         System.out.println("After Sorting");
         for(int n : nums){
-            System.out.println(n);
+            System.out.print(n + " ");
         }
     }
 }
