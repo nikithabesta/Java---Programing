@@ -26,6 +26,10 @@ public class Nikitha {
         Bsearch obj = new Bsearch();
         obj.bsearch(nums, key);
         System.out.println("Hi iam Sairam");
+<<<<<<< HEAD
         System.out.println("Hey Sairam");
+=======
+        System.out.println("hello world");
+>>>>>>> sai
     }
 }
