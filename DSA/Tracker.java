@@ -36,9 +36,6 @@ class ExpenseTracker{
             }
             else{
                 file.createNewFile();
-                try(FileWriter writer=new FileWriter(fileName)) {
-                    writer.write("name,cost,date\n");
-                } 
                 System.out.println("new file created");
             }
             
